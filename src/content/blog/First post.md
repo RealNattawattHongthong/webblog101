@@ -10,4 +10,4 @@ description: Blog introduction
 ---
 Hi, everyone!
 I'm Nattawatt. Welcome to my blog website!!!
-I hope you enjoy my blog!!!
+I hope you enjoy my blog.
