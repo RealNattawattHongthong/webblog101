@@ -1,7 +1,6 @@
 ---
 author: Nattawatt Hongthong
 pubDatetime: 2024-06-2216:55:12.000+00:00
-modDatetime:
 title: First post
 featured: false
 draft: false
