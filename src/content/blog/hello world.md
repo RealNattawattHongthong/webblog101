@@ -1,5 +1,5 @@
 ---
-author: Simon Smale
+author: Nattawatt Hongthong
 pubDatetime: 2024-01-08T18:16:00.000Z
 modDatetime:
 title: How to add a new Social Icon to AstroPaper
