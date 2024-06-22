@@ -1,15 +1,13 @@
 ---
-author: Nattawatt Hongthong
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
-title: First posttt
-slug:
-featured: true
+author: Simon Smale
+pubDatetime: 2024-01-08T18:16:00.000Z
+modDatetime:
+title: How to add a new Social Icon to AstroPaper
+featured: false
 draft: false
 tags:
-  - docs
-description:
-Hello!
+  - FAQ
+description: How to add a new social icon to AstroPaper
 ---
 Hi, everyone!
 I'm Nattawatt. Welcome to my blog website!!!
