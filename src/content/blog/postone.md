@@ -9,6 +9,6 @@ tags:
   - example
 ogImage: ""
 description: buabuaarh
-canonicalURL:
+canonicalURL: https://example.org/my-article-was-already-posted-here4
 ---
 Halo. Test post
