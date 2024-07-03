@@ -1,6 +1,6 @@
 ---
 title: The title of the post
-author: your name
+author: Nattawatt Hnogthong
 pubDatetime: 2024-07-05T05:17:19Z
 slug: First Post
 featured: true
