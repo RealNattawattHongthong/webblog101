@@ -1,8 +1,8 @@
 ---
 title: Test
 author: Nattawatt Hongthong
-pubDatetime: 2025-02-09T00:18:00Z
-slug: Hello-World!
+pubDatetime: 2025-02-09T14:32:00Z
+slug: yay!
 featured: true
 draft: false
 tags:
